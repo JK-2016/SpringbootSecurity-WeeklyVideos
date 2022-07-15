@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot-security">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spring Boot Security/Provided Project/spring-boot-security.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
